@@ -1,0 +1,23 @@
+{
+  "name": "angular-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolavolaoke/angular-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolavolaoke/angular-setup/issues"
+  },
+  "homepage": "https://github.com/tolavolaoke/angular-setup#readme"
+}
